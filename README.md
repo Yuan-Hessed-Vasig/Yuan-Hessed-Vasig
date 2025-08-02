@@ -34,12 +34,19 @@ Computer Engineer and 3D Designer
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_chair1.jpg" width="250" />
   </a>
   <a href="https://www.artstation.com/artwork/DLoG6R">
-    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_chair2.jpg" width="250" />
-  </a>
-  <a href="https://www.artstation.com/artwork/DLoG6R">
-    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_chair3.jpg" width="250" />
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/mech1.jpg" width="250" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.artstation.com/artwork/DLoG6R">
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_lamp1.jpg" width="250" />
+  </a>
+  <a href="https://www.artstation.com/artwork/DLoG6R">
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/dune1.png" width="250" />
+  </a>
+</p>
+
 
 - **Web & Software Development:** Early hands-on experience experimenting with websites and applications  
 
