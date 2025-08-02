@@ -20,10 +20,10 @@ Computer Engineer and 3D Designer
  
 <p align="center">
   <a href="">
-    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/game_dev1.png" />
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/game_dev1.png" width="300" />
   </a>
   <a href="">
-    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/game_dev2.png" />
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/game_dev2.png" width="300" />
   </a>
 </p>
   
