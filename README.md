@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yuan Hessed Vasig
+Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yuan Hessed Vasig
 =========================================================================================================================================
 
 Computer Engineer and 3D Designer
@@ -16,7 +16,17 @@ Computer Engineer and 3D Designer
 - **Game Development:**  
   - 🎮 **Unity (C#)** – Prototyped and developed gameplay systems  
   - 🕹 **Roblox (Lua)** – Scripting for interactive experiences  
-  - 🏗 **Unreal Engine (C++)** – Experimented with 3D environments and mechanics  
+  - 🏗 **Unreal Engine (C++)** – Experimented with 3D environments and mechanics
+ 
+<p align="center">
+  <a href="">
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/game_dev1.png" />
+  </a>
+  <a href="">
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/game_dev2.png" />
+  </a>
+</p>
+  
 - **3D Design:** 300+ hours in **Blender**, creating models and assets
 
 <p align="center">
