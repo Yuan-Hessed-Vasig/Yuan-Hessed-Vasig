@@ -20,13 +20,13 @@ Computer Engineer and 3D Designer
 - **3D Design:** 300+ hours in **Blender**, creating models and assets
 
 <p align="center">
-  <a href="https://github.com/your-username/project1">
+  <a href="https://www.artstation.com/artwork/DLoG6R">
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_chair1.jpg" width="250" />
   </a>
-  <a href="https://github.com/your-username/project2">
+  <a href="https://www.artstation.com/artwork/DLoG6R">
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_chair2.jpg" width="250" />
   </a>
-  <a href="https://github.com/your-username/project3">
+  <a href="https://www.artstation.com/artwork/DLoG6R">
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/parametric_chair3.jpg" width="250" />
   </a>
 </p>
@@ -38,15 +38,21 @@ Computer Engineer and 3D Designer
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" title="Premiere Pro"/></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender"/></a>
 </p>
 
+---------------------------------
+## Face Recognition System (currently working on improving)
 
---------------------------------------------
+ <a href="">
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/face_recognition_ui.png" />
+</a>
+
+---------------------------------
 
 
 ## 🌱 Currently Learning  
 - Advanced algorithms, data structures, and software engineering principles  
 - Improving game dev workflows and design patterns  
 
---------------------------------------------
+---------------------------------
 
 ### Socials
 
