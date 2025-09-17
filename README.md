@@ -58,7 +58,7 @@ Computer Engineer and 3D Designer
 ---------------------------------
 ## Face Recognition System (currently working on improving)
 
-Refinemens of UI
+Refinements of UI
  <a href="">
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/Attendance%20Page.png" />
 </a>
