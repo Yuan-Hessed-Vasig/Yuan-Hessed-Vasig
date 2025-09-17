@@ -12,7 +12,7 @@ Computer Engineer and 3D Designer
 * 🤝  I'm open to collaborating on software development for real life application
 
 ## 🛠️ Skills & Experience  
-- **Programming Languages:** C++, C#, Lua, Python  
+- **Softare Development/Engineering:** C++, C#, Python  
 - **Game Development:**  
   - 🎮 **Unity (C#)** – Prototyped and developed gameplay systems  
   - 🕹 **Roblox (Lua)** – Scripting for interactive experiences  
