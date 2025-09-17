@@ -60,6 +60,9 @@ Computer Engineer and 3D Designer
 
 ![GIF APP mp4](https://github.com/user-attachments/assets/cf23bfbf-c010-4964-bca0-ab8471d76f3d)
 
+ <a href="">
+    <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/Attendance%20Page.png" />
+</a>
 
  <a href="">
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/face_recognition_ui.png" />
