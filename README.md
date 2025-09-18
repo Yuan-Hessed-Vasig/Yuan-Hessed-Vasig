@@ -58,12 +58,12 @@ Computer Engineer and 3D Designer
 ---------------------------------
 ## Face Recognition System (currently working on improving)
 
-Refinements of UI
+Refinements of UI(CustomTkinter and pywinstyles for GUI)
  <a href="">
     <img src="https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/Attendance%20Page.png" />
 </a>
 
-Improved Face Recognition and Detection Algorithm(Implementation of multiple models, eg. DNN and Haars Cascade Model)
+Improved Face Recognition and Detection Algorithm(Integration of multiple models, eg. DNN, Haars Cascade Model etc.)
 ![GIF APP mp4](https://github.com/user-attachments/assets/cf23bfbf-c010-4964-bca0-ab8471d76f3d)
 
 Early Prototype
