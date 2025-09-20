@@ -7,7 +7,9 @@ Computer Engineer and 3D Designer
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [about.me](http://about.me/yuandigitals)
 * ✉️  You can contact me at [yuanpercent@gmail.com](mailto:yuanpercent@gmail.com)
-* 🚀  I'm currently working on [Face Recognition Security System](http://github.com/Yuan-Hessed-Vasig/project-oop-recognition)
+* 🚀  I'm currently working on:
+  * [Face Recognition Security System](https://github.com/Yuan-Hessed-Vasig/My-Python-Auth-Face-App)
+  * [Personal Finance Tracker App](https://github.com/Yuan-Hessed-Vasig/Money-Rider-App)
 * 🧠  I'm learning Python, Lua and C++
 * 🤝  I'm open to collaborating on software development for real life application
 
