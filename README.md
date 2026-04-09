@@ -81,7 +81,7 @@ Early Prototype
 
 Landing Page
 <a href = "">
-    <img src = "https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/edit/main/README.md" />
+    <img src = "https://github.com/Yuan-Hessed-Vasig/Yuan-Hessed-Vasig/blob/main/claire-landing-page.png" />
 </a>
 
 ---------------------------------
