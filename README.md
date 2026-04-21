@@ -8,10 +8,8 @@ Computer Engineer and 3D Designer
 * 🖥️  See my portfolio at [about.me](http://about.me/yuandigitals)
 * ✉️  You can contact me at [yuanpercent@gmail.com](mailto:yuanpercent@gmail.com)
 * 🚀  I'm currently working on:
-  * [Web Based Salon Management and Appointment System]
-  * [BSHS Student Portal System](https://bshs-student-portal.webproshub.com/)
-  * [Face Recognition Security System](https://github.com/Yuan-Hessed-Vasig/My-Python-Auth-Face-App)
-  * [Personal Finance Tracker App](https://github.com/Yuan-Hessed-Vasig/Money-Rider-App)
+  * [Web Based Salon Management and Appointment System](https://claire-react-frontend.onrender.com)
+  * [Roblox Game](https://www.roblox.com/games/129271061497561/Pilipinas-Hangout-Tambayan-Roleplay)
 * 🧠  I'm learning C++, Python, JavaScript and Lua
 * 🤝  I'm open to collaborating on software development for real life application
 
@@ -87,8 +85,8 @@ Landing Page
 ---------------------------------
 
 ## 🌱 Currently Learning  
-- Advanced algorithms, data structures, and software engineering principles  
-- Improving game dev workflows and design patterns  
+- Game Development in Roblox
+- Web Development  
 
 ---------------------------------
 
