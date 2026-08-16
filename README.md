@@ -1,20 +1,23 @@
 Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yuan Hessed Vasig
 =========================================================================================================================================
 
-Computer Engineer and 3D Designer
+Computer Science Student | C/C++ Developer
 ---------------------------------
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [about.me](http://about.me/yuandigitals)
 * ✉️  You can contact me at [yuanpercent@gmail.com](mailto:yuanpercent@gmail.com)
-* 🚀  I'm currently working on:
-  * [Web Based Salon Management and Appointment System](https://claire-react-frontend.onrender.com)
-  * [Roblox Game](https://www.roblox.com/games/129271061497561/Pilipinas-Hangout-Tambayan-Roleplay)
-* 🧠  I'm learning C++, Python, JavaScript and Lua
-* 🤝  I'm open to collaborating on software development for real life application
+* 🚀  Current Focus:
+  * [C Programming & Systems Programming]
+  * [AVR Bare-Metal C Programming]
+  * [Basic Electornics]
+  * [Microcontroller Programming]
+  * [Digital Logic & Computer Architecture]
+  * [Embedded Systems]
+  * [Data Structures and Algorithms]
+
 
 ## 🛠️ Skills & Experience  
-- **Softare Development/Engineering:** C++, C#, Python  
+- **Softare Development/Engineering:** C, C++, C#, Python  
 - **Game Development:**  
   - 🎮 **Unity (C#)** – Prototyped and developed gameplay systems  
   - 🕹 **Roblox (Lua)** – Scripting for interactive experiences  
