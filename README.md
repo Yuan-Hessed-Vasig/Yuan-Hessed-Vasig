@@ -9,7 +9,7 @@ Computer Science Student | C/C++ Developer
 * 🚀  Current Focus:
   * [C Programming & Systems Programming]
   * [AVR Bare-Metal C Programming]
-  * [Basic Electornics]
+  * [Basic Electronics]
   * [Microcontroller Programming]
   * [Digital Logic & Computer Architecture]
   * [Embedded Systems]
